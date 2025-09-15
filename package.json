@@ -1,0 +1,11 @@
+{
+  "name": "sylladex",
+  "version": "1.0.0",
+  "description": "Testing for Sylladex ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adrian Tong",
+  "license": "ISC"
+}
